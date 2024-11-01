@@ -17,7 +17,7 @@ SummarAI is a sleek macOS application that helps you extract key information fro
 ## 🖥️ Interface
 
 <div align="center">
-  <img src="giphy.gif" alt="SummarAI Interface" width="800">
+  <img src="ezgif.com-video-to-gif-converter.mov" alt="SummarAI Interface" width="800">
 </div>
 
 ## ✨ Features
