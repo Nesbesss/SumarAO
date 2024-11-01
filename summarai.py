@@ -38,7 +38,7 @@ class SummarAI:
         
         # Initialize Groq client with your API key
         self.client = Groq(
-            api_key="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"  # Replace with your actual API key
+            api_key="Your api key here"  # Replace with your actual API key
         )
         
         # Settings for API key
