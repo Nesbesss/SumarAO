@@ -42,7 +42,7 @@ class SummarAI:
         )
         
         # Settings for API key
-        self.api_key = "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"  # Default key
+        self.api_key = "Your_api_key_here"  # Default key
         self.load_settings()  # Load saved settings
         self.client = Groq(api_key=self.api_key)
         
