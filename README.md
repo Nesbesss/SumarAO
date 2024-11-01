@@ -5,7 +5,7 @@
 ![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-00ff9f)
 
 <div align="center">
-  <img src="background.png" alt="SummarAI Logo" width="200">
+  <img src="dmg-background.png" alt="SummarAI Logo" width="200">
   
   A minimal, powerful AI summarization tool for macOS
 </div>
